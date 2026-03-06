@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.amazon.com)",
+      "WebFetch(domain:book-ye.com.ua)",
+      "WebFetch(domain:www.barnesandnoble.com)",
+      "WebFetch(domain:www.technocrats.com.ua)"
+    ]
+  }
+}
