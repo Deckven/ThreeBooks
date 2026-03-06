@@ -16,13 +16,25 @@
 - `double-storm-generation/agents/sources/07-tech-futurist-sources.md` (TF-001–024)
 - `double-storm-generation/agents/sources/08-scenario-analyst-sources.md` (SA-001–028)
 
+Детальные базы источников по агентам-экспертам книги 1:
+- `countors-fractured-world/agents/sources/01-geopolitical-strategist-sources.md` (GS-001–030)
+- `countors-fractured-world/agents/sources/02-tech-futurist-sources.md` (B1-TF-001–023)
+- `countors-fractured-world/agents/sources/03-demographer-sources.md` (DM-001–025)
+- `countors-fractured-world/agents/sources/04-climate-energy-sources.md` (CE-001–024)
+- `countors-fractured-world/agents/sources/05-economist-sources.md` (EC-001–024)
+- `countors-fractured-world/agents/sources/06-institutionalist-sources.md` (IN-001–024)
+- `countors-fractured-world/agents/sources/07-civilization-analyst-sources.md` (CA-001–026)
+- `countors-fractured-world/agents/sources/08-scenario-integrator-sources.md` (SI-001–023)
+- `countors-fractured-world/agents/sources/09-scifi-writer-sources.md` (SF-001–028)
+
 ## Сводная статистика
 
-- Всего источников: ~199
-- По агентам: UH — 28, SV — 26, PI — 22, GR — 20, IC — 24, CS — 27, TF — 24, SA — 28
-- По надёжности: high — ~150, medium — ~40, low — ~9
-- По типам: book — ~110, article — ~20, report — ~35, media — ~25, statistics — ~9
-- По книгам: book3 — все, book1 — частично (GR, IC, TF), book2 — частично (TF)
+- Всего источников: ~401 (с учётом пересечений между книгами — ~350 уникальных)
+- **Книга 3**: UH — 28, SV — 26, PI — 22, GR — 20, IC — 24, CS — 27, TF — 24, SA — 28 (итого ~199)
+- **Книга 1**: GS — 30, B1-TF — 23, DM — 25, CE — 24, EC — 24, IN — 24, CA — 26, SI — 23, SF — 28 (итого ~227, из них ~25 пересекаются с книгой 3)
+- По надёжности: high — ~300, medium — ~45, low — ~6
+- По типам: book — ~220, article — ~30, report — ~90, media — ~25, statistics — ~15, podcast — ~1
+- По книгам: book3 — UH/SV/PI/GR/IC/CS/TF/SA, book1 — GS/B1-TF/DM/CE/EC/IN/CA/SI/SF, book2 — частично (TF, B1-TF)
 
 ## Источники из исходных текстов (double_storm_generation_note.md, ukranian_crossroad.md)
 
