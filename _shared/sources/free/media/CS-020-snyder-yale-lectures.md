@@ -1,6 +1,6 @@
 # Тімоті Снайдер — «The Making of Modern Ukraine», лекції Єля (2022)
 
-- **ID:** CS-020
+- **ID:** CS-020 (книга 3), IR (книга 2)
 - **Автор/Источник:** Timothy Snyder, Yale University
 - **Год:** 2022
 - **Тип:** media
