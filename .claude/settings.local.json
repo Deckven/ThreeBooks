@@ -5,7 +5,18 @@
       "WebFetch(domain:www.amazon.com)",
       "WebFetch(domain:book-ye.com.ua)",
       "WebFetch(domain:www.barnesandnoble.com)",
-      "WebFetch(domain:www.technocrats.com.ua)"
+      "WebFetch(domain:www.technocrats.com.ua)",
+      "WebFetch(domain:www.foreignaffairs.com)",
+      "WebFetch(domain:meduza.io)",
+      "WebFetch(domain:www.pravda.com.ua)",
+      "WebFetch(domain:feeds.arstechnica.com)",
+      "WebFetch(domain:warontherocks.com)",
+      "WebFetch(domain:arstechnica.com)",
+      "WebFetch(domain:www.technologyreview.com)",
+      "WebFetch(domain:zn.ua)",
+      "WebFetch(domain:novayagazeta.eu)",
+      "WebFetch(domain:zona.media)",
+      "WebFetch(domain:spectrum.ieee.org)"
     ]
   }
 }
